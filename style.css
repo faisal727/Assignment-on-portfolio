@@ -1,4 +1,5 @@
 body{
+    overflow-x: hidden;
     font-family: 'poppins', sans-serif;
 }
 #heaing{
@@ -119,12 +120,14 @@ img{
 .fourth-section{
     padding-bottom: 10%;
 }
-.last-part{
+footer{
+    width: 100%;
     color: white;
     text-align: center;
     background-color:rgba(0, 0, 0, 0.911);
     padding-top: 25px;
     padding-bottom: 25px;
+   
 }
 #footer-heaing{
    font-style:oblique;
